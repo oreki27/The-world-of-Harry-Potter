@@ -1,0 +1,19 @@
+ <div id="str1">
+            <center><p ><b>hello there guys</b></p></center>
+        </div>
+
+
+
+CSS
+
+
+#str1
+{
+    position:relative;
+    bottom: 400;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    height: 400px;
+    opacity: 0.7;
+}   

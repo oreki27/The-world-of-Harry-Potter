@@ -1,0 +1,8 @@
+ <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1">
+        <link href="css.css" type="text/css" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="bootstrap.css">
+        <link type="text/css" rel="stylesheet" href="bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="bootstrap-grid.css">
+        <link type="text/css" rel="stylesheet" href="bootstrap-grid.min.css">
+        <link type="text/css" rel="stylesheet" href="bootstrap-reboot.css">
+        <link type="text/css" rel="stylesheet" href="bootstrap-reboot.min.css">

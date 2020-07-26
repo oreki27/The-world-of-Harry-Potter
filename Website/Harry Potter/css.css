@@ -1,0 +1,14 @@
+#navbar
+{
+    font-family: Verdana, Geneva, sans-serif;
+    
+}
+nav a:hover
+{
+    text-decoration: none;
+}
+nav
+{
+    position: fixed;
+}
+
